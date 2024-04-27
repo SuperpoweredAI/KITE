@@ -1,0 +1,52 @@
+[
+    {
+        "query": "What was the court's opinion in Mallory vs. Norfolk Southern?",
+        "gt_answer": "The Supreme Court sided with Mr. Mallory in this case. Norfolk Southern argued that the Due Process Clause of the 14th Amendment shielded it from lawsuits in Pennsylvania, where it was a registered foreign corporation. The Court rejected this argument, and claimed that the Pennsylvania law requiring an out-of-state corporation to answer any suits against it in exchange for the benefits of registration as a foreign corporation does not violate the Due Process Clause of the 14th Amendment.",
+        "rubric": "The most important detail here is that the Supreme Court sided with Mr. Mallory and against Norfolk Southern in this case. It’s also important to note that the decision centered on the question of whether the Due Process Clause was violated by the Pennsylvania foreign corporation registration laws. The Court ruled that it was not."
+    },
+    {
+        "query": "Why did the court agree to hear the case in Mallory vs. Norfolk Southern?",
+        "gt_answer": "The Court agreed to hear the case in order to resolve a split decision at the state level. The issue at hand was whether requiring an out-of-state corporation to answer any suits against it in exchange for the right to do business in that state is a violation of the Due Process Clause of the 14th Amendment. The Pennsylvania Supreme Court ruled that this was a violation of the Due Process Clause, while the Georgia Supreme Court rejected a similar due process argument.",
+        "rubric": "A good answer must mention the split decision between the Pennsylvania and Georgia courts."
+    },
+    {
+        "query": "What was the court’s opinion in Biden vs. Nebraska? What was the dissenting opinion?",
+        "gt_answer": "This case was about whether the HEROES Act of 2003 granted the Secretary of Education the power to implement a student loan forgiveness program.\n\nThe Court ruled that the Secretary of Education did not have the power to establish the student loan forgiveness program. The majority opinion argued that the authority to institute such a large loan forgiveness program should rest with Congress.\n\nThe dissenting opinion was delivered by Justice Kagan, and argued that the plaintiff-States did not have the standing to bring this case, since they did not suffer direct financial harm.",
+        "rubric": "Be sure that both the majority opinion and the dissenting opinion are well described."
+    },
+    {
+        "query": "In what way is MOHELA relevant to the Biden vs. Nebraska case?",
+        "gt_answer": "MOHELA (Missouri Higher Education Loan Authority) is central to the Biden vs. Nebraska case. As a corporation created by the state of Missouri that suffered direct financial harm from the student loan forgiveness program, MOHELA was instrumental to the plaintiffs’ argument, because it established their standing to bring the case. The majority opinion agreed with this argument.\n\nThe dissenting opinion argued that even though MOHELA did suffer financial harm from the student loan forgiveness program, that did not mean that Missouri suffered financial harm, since MOHELA is financially independent from Missouri.",
+        "rubric": "The key here is the MOHELA was successfully used by the plaintiffs to establish proper standing to bring the case."
+    },
+    {
+        "query": "In Amgen vs. Sanofi, what was the scope of Amgen’s claims in the 2014 patents and why was this problematic?",
+        "gt_answer": "Amgen claimed an entire genus of antibodies, not just the 26 specific ones they were able to provide the amino acid sequence for. This was problematic because the enablement part of patent law was not met. They claimed to have enabled others by providing a roadmap and conservative substitution, but this was rejected by the court on the grounds of it not being sufficient to enable a person skilled in the art to reliably reproduce their work.",
+        "rubric": ""
+    },
+    {
+        "query": "What was the dissenting opinion in Amgen vs. Sanofi?",
+        "gt_answer": "There was no dissenting opinion, as the court sided unanimously with Amgen in this case.",
+        "rubric": "Ideally the answer will say definitively that there was no dissenting opinion because the court sided unanimously with Sanofi. But it should still be considered a good answer is the answer says something along the lines of “I couldn’t find a dissenting opinion.” A bad answer is one that makes up a dissenting opinion."
+    },
+    {
+        "query": "In the court’s decision in Amgen vs. Sanofi, what prior cases did they cite as precedent, and what was the thread that tied them together?",
+        "gt_answer": "The core issue was that of enablement. A patent must provide sufficient detail to enable a person skilled in the art to reliably reproduce what is claimed. The cases cited by the court were all cases where patent claims were invalidated on the grounds on not providing sufficient enablement. Examples include Morse, Incandescent Lamp, and Holland Furniture.",
+        "rubric": ""
+    },
+    {
+        "query": "What was the court’s opinion in Amgen vs. Sanofi?",
+        "gt_answer": "The court upheld the lower courts’ ruling that Amgen’s claim on an entire genus of antibodies was invalid on the grounds of not providing enablement. Their claimed enablement was seen by the court as little more than an instruction to engage in trial and error.",
+        "rubric": ""
+    },
+    {
+        "query": "In National Pork Producers Council v. Ross, in what way did Justice Barrett disagree with the others?",
+        "gt_answer": "Justice Barrett argued that Proposition 12 did create a substantial burden on interstate commerce, while the others argued it did not. But she agreed with the majority that the benefits and burdens of Proposition 12 are incommensurable, and therefore she agreed with the majority’s decision.",
+        "rubric": "It’s important to note that Justice Barrett did not dissent, but merely provided a concurring opinion. An answer that states she dissented should be heavily penalized."
+    },
+    {
+        "query": "What is the dormant commerce clause and how is it relevant to National Pork Producers Council v. Ross?",
+        "gt_answer": "The dormant Commerce Clause is a reading of the Commerce Clause that includes an additional negative command that effectively forbids the enforcement of certain state economic regulations, even when Congress has not legislated on the subject. In Guy v. Baltimore, the Court held that state laws offend the Commerce Clause when they seek to build up domestic commerce through burdens on the industry and business of other States. This antidiscrimation reading of the clause is the primary one supported by precedent.\n\nIn National Pork Producers v. Ross, there was no antidiscrimination argument put forward. Instead, the plaintiffs put forward an interpretation of the dormant Commerce Clause that focused on harms to out-of-state firms relative to the local benefit.",
+        "rubric": "The antidiscrimination part is a subtle but important part of this answer. A great answer will clearly differentiate between the antidiscrimination interpretation of the dormant Commerce Clause supported by precedent, and the more novel form put forth by the plaintiffs in this case."
+    }
+]

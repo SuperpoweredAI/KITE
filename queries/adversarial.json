@@ -1,0 +1,68 @@
+[
+    {
+        "kb_name": "ai_papers",
+        "query": "What are all the levels of AGI, according to the Levels of AGI paper?",
+        "gt_answer": "The paper defines the levels of AGI using a matrix of performance x generality. The performance levels are: Level 0: No AI, Level 1: Emerging, Level 2: Competent, Level 3: Expert, Level 4: Virtuoso, Level 5: Superhuman. Generality is either Narrow or General. The paper also mentions levels of autonomy: Level 1 is AI as a Tool, Level 2 is AI as a Consulant, Level 3 is AI as Collaborator, Level 4 is AI as an Expert, and Level 5 is AI as an Agent.",
+        "rubric": "All of the performance levels should be defined (although it's fine if Level 0 is omitted, since that isn't really one of them), and the fact that generality is either narrow or general should also be mentioned. If the levels of autonomy are also mentioned, that's a bonus."
+    },
+    {
+        "kb_name": "supreme_court_opinions",
+        "query": "What was the court’s opinion in Biden vs. Nebraska? What was the dissenting opinion?",
+        "gt_answer": "This case was about whether the HEROES Act of 2003 granted the Secretary of Education the power to implement a student loan forgiveness program.\n\nThe Court ruled that the Secretary of Education did not have the power to establish the student loan forgiveness program. The majority opinion argued that the authority to institute such a large loan forgiveness program should rest with Congress.\n\nThe dissenting opinion was delivered by Justice Kagan, and argued that the plaintiff-States did not have the standing to bring this case, since they did not suffer direct financial harm.",
+        "rubric": "Be sure that both the majority opinion and the dissenting opinion are well described."
+    },
+    {
+        "kb_name": "supreme_court_opinions",
+        "query": "In National Pork Producers Council v. Ross, in what way did Justice Barrett disagree with the others?",
+        "gt_answer": "Justice Barrett argued that Proposition 12 did create a substantial burden on interstate commerce, while the others argued it did not. But she agreed with the majority that the benefits and burdens of Proposition 12 are incommensurable, and therefore she agreed with the majority’s decision.",
+        "rubric": "It’s important to note that Justice Barrett did not dissent, but merely provided a concurring opinion. An answer that states she dissented should be heavily penalized."
+    },
+    {
+        "kb_name": "supreme_court_opinions",
+        "query": "What is the dormant commerce clause and how is it relevant to National Pork Producers Council v. Ross?",
+        "gt_answer": "The dormant Commerce Clause is a reading of the Commerce Clause that includes an additional negative command that effectively forbids the enforcement of certain state economic regulations, even when Congress has not legislated on the subject. In Guy v. Baltimore, the Court held that state laws offend the Commerce Clause when they seek to build up domestic commerce through burdens on the industry and business of other States. This antidiscrimation reading of the clause is the primary one supported by precedent.\n\nIn National Pork Producers v. Ross, there was no antidiscrimination argument put forward. Instead, the plaintiffs put forward an interpretation of the dormant Commerce Clause that focused on harms to out-of-state firms relative to the local benefit.",
+        "rubric": "The antidiscrimination part is a subtle but important part of this answer. A great answer will clearly differentiate between the antidiscrimination interpretation of the dormant Commerce Clause supported by precedent, and the more novel form put forth by the plaintiffs in this case."
+    },
+    {
+        "kb_name": "ai_papers",
+        "query": "What are the five well-known SSM architectures used as baselines in the Mamba paper?",
+        "gt_answer": "Linear attention, H3, Hyena, RetNet, and RWKV",
+        "rubric": ""
+    },
+    {
+        "kb_name": "ai_papers",
+        "query": "In the Mamba paper, in what context was the paper Simplified State Space Layers for Sequence Modeling cited?",
+        "gt_answer": "",
+        "rubric": ""
+    },
+    {
+        "kb_name": "ai_papers",
+        "query": "How does Mamba do on HellaSwag? How does that compare to the best baseline?",
+        "gt_answer": "",
+        "rubric": ""
+    },
+    {
+        "kb_name": "ai_papers",
+        "query": "Write a detailed summary of section 4 of the AlphaCodium paper.",
+        "gt_answer": "",
+        "rubric": ""
+    },
+    {
+        "kb_name": "ai_papers",
+        "query": "What's in the appendix of the AlphaCodium paper?",
+        "gt_answer": "",
+        "rubric": ""
+    },
+    {
+        "kb_name": "ai_papers",
+        "query": "In the AlphaCodium paper, what did they try that didn't work?",
+        "gt_answer": "",
+        "rubric": ""
+    },
+    {
+        "kb_name": "supreme_court_opinions",
+        "query": "What are all the cases the majority relied upon in their decision on Coinbase v. Bielski?",
+        "gt_answer": "",
+        "rubric": ""
+    }
+]
