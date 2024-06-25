@@ -5,7 +5,7 @@
         "rubric": "All of the performance levels should be defined (although it's fine if Level 0 is omitted, since that isn't really one of them), and the fact that generality is either narrow or general should also be mentioned. If the levels of autonomy are also mentioned, that's a bonus."
     },
     {
-        "query": "Why did the authors decide on this specific matrixed, leveled ontology of AGI?",
+        "query": "Why did the authors of the Levels of AGI paper decide on the specific matrixed, leveled ontology of AGI they did?",
         "gt_answer": "The authors decided on this specific matrixed, leveled ontology of AGI to focus on performance and generality as the two dimensions that are core to AGI. This approach aligns with Principle 2 ('Focus on Generality and Performance') and Principle 6 ('Focus on the Path to AGI, not a Single Endpoint').",
         "rubric": "The model should at least mention that the authors decided on this specific matrixed, leveled ontology of AGI to focus on performance and generality as the two dimensions that are core to AGI. If it also mentions that this approach aligns with Principle 2 ('Focus on Generality and Performance') and Principle 6 ('Focus on the Path to AGI, not a Single Endpoint') then that's a bonus."
     },

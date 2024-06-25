@@ -1,0 +1,76 @@
+AI PAPERS
+
+1. Persona: Dr. Emily Chen is a postdoctoral researcher in computer science at Stanford University. She specializes in natural language processing and has been following the rapid developments in large language models. Emily is passionate about pushing the boundaries of AI and is always looking for new research directions.
+
+Task: Emily wants to identify potential research gaps in the field of LLMs and RAG systems. She aims to use the RAG system to analyze the existing literature, identify common themes and methodologies, and pinpoint areas that haven't been extensively explored. Her goal is to formulate a novel research question that could lead to a groundbreaking paper.
+
+2. Persona: Marcus Thompson is a senior software engineer at a tech startup developing AI-powered productivity tools. He has a background in machine learning but hasn't kept up with the latest advancements in LLMs. Marcus is eager to incorporate cutting-edge AI techniques into his company's products.
+
+Task: Marcus needs to understand the current state-of-the-art in RAG systems and how they can be applied to improve information retrieval in productivity tools. He wants to use the RAG system to find papers that discuss practical implementations, performance metrics, and potential limitations of RAG in real-world applications. His goal is to create a comprehensive report for his team to guide their product development strategy.
+
+3. Persona: Jake Rodriguez is a third-year Ph.D. student in computer science at MIT. He's working on improving the efficiency of large language models and is always on the lookout for novel optimization techniques. Jake is known for his creative approach to problem-solving and his ability to connect ideas from different domains.
+
+Task: Jake wants to explore recent advancements in model compression and distillation techniques for LLMs. He plans to use the RAG system to find papers that discuss innovative approaches to reducing model size without significantly compromising performance. His goal is to identify potential synergies between different methods and formulate a new hybrid approach for his thesis research.
+
+4. Persona: Olivia is a tech journalist specializing in AI and machine learning. She has a degree in computer science and five years of experience writing for major tech publications. Olivia is known for her ability to explain complex technical concepts to a general audience.
+
+Task: Olivia is preparing a feature article on the evolution of LLMs and RAG systems over the past two years. She wants to use the RAG system to identify key milestones, breakthroughs, and trends in the field. Her goal is to create a comprehensive timeline of developments and provide insights into where the technology is headed, making it accessible to her non-technical readers.
+
+BVP CLOUD
+1. Persona: Alex Patel is a 35-year-old data scientist working for a market research firm. He has a Ph.D. in statistics and specializes in predictive modeling for the tech industry. Alex is passionate about using data to uncover market trends and forecast industry developments.
+
+Task: Alex uses the RAG system to extract large amounts of financial and operational data from cloud companies' 10-K filings. He regularly queries the system to gather data on revenue growth, customer acquisition costs, churn rates, and other key metrics. This data feeds into his predictive models, helping him forecast industry trends and company performance for his firm's clients.
+
+2. Persona: Michael Wu is a 29-year-old management consultant specializing in digital transformation. He has an engineering degree and an MBA. Michael works with large enterprises to help them adopt cloud technologies and modernize their IT infrastructure.
+
+Task: Michael uses the RAG system to research successful cloud adoption strategies and best practices. He regularly queries the system to understand how different cloud companies position their products, what industries they target, and how they address common challenges in cloud migration. This information helps him develop better recommendations for his clients and stay up-to-date on the latest trends in cloud adoption.
+
+3. Persona: Rachel Goldman is a 42-year-old investor relations manager at a public cloud company. She has a background in finance and communications. Rachel is responsible for managing her company's relationship with investors and analysts.
+
+Task: Rachel regularly uses the RAG system to benchmark her company against competitors in the BVP Cloud Index. She queries the system to compare financial metrics, growth rates, and business strategies. This information helps her prepare for investor presentations, answer analyst questions, and craft her company's narrative in the context of the broader cloud industry.
+
+4. Persona: Sarah is a 32-year-old financial analyst at a boutique investment firm. She specializes in the tech sector, with a focus on cloud computing companies. Sarah has an MBA from a top business school and is known for her thorough research and insightful market predictions.
+
+Task: Sarah needs to regularly analyze the financial health and growth prospects of companies in the BVP Cloud Index. She uses the RAG system to quickly extract and compare key financial metrics, growth rates, and risk factors across multiple companies. This helps her identify trends, potential investment opportunities, and write comprehensive reports for her clients.
+
+SOURCEGRAPH
+1. Persona: Emma is a newly hired software engineer at Sourcegraph. She's excited about her new role but feels overwhelmed by the company's processes and culture. Emma is introverted and prefers to find information on her own rather than asking colleagues directly.
+
+Task: Emma wants to use the RAG system to quickly find and understand Sourcegraph's coding standards, development workflows, and best practices. She plans to refer to this information regularly as she works on her projects, ensuring she's aligned with the company's engineering culture and expectations.
+
+2. Persona: Marcus is a human resources manager at Sourcegraph. He's been with the company for three years and is responsible for onboarding new employees and maintaining a positive work environment. Marcus is detail-oriented and always strives to provide accurate information.
+
+Task: Marcus plans to use the RAG system to efficiently access and summarize Sourcegraph's benefits packages, leave policies, and performance review processes. He'll use this information frequently when answering employee questions and conducting orientation sessions for new hires.
+
+3. Persona: Sophia is a product manager at Sourcegraph. She's been with the company for six months and is passionate about user-centric design. Sophia is always looking for ways to improve the product development process and align it with company values.
+
+Task: Sophia intends to use the RAG system to regularly review and reference Sourcegraph's product development philosophy, feature prioritization guidelines, and user research methodologies. She'll use this information to guide her team's decision-making processes and ensure their work aligns with the company's overall product strategy.
+
+4. Persona: Liam is a sales representative who recently joined Sourcegraph. He's outgoing and eager to make a good impression on potential clients. Liam wants to thoroughly understand Sourcegraph's products and values to effectively communicate them to prospects.
+
+Task: Liam plans to use the RAG system to quickly access and summarize key information about Sourcegraph's products, pricing models, and unique selling points. He'll refer to this information regularly when preparing for sales calls, creating proposals, and responding to client inquiries.
+
+5. Persona: Ava is a remote customer support specialist at Sourcegraph. She's been with the company for two years and takes pride in providing excellent service. Ava is patient and enjoys helping others solve problems.
+
+Task: Ava intends to use the RAG system to quickly find and reference Sourcegraph's customer support policies, troubleshooting guides, and product documentation. She'll use this information daily to assist customers with their inquiries and ensure she's providing accurate and up-to-date information.
+
+6. Persona: Noah is a finance analyst at Sourcegraph. He's detail-oriented and has a strong background in accounting. Noah is responsible for maintaining the company's financial records and preparing reports for leadership.
+
+Task: Noah plans to use the RAG system to regularly access and interpret Sourcegraph's financial policies, expense reporting guidelines, and budgeting processes. He'll use this information to ensure compliance with company policies when processing transactions and preparing financial reports.
+
+7. Persona: Olivia is a marketing manager at Sourcegraph. She's creative and always looking for new ways to promote the company's products and values. Olivia has been with Sourcegraph for a year and is passionate about brand consistency.
+
+Task: Olivia intends to use the RAG system to frequently reference Sourcegraph's brand guidelines, marketing strategies, and communication policies. She'll use this information when creating marketing materials, planning campaigns, and ensuring all external communications align with the company's brand voice and values.
+
+8. Persona: Ethan is a legal counsel at Sourcegraph. He's been with the company for four years and is responsible for ensuring legal compliance and managing contracts. Ethan is meticulous and always stays up-to-date with legal developments in the tech industry.
+
+Task: Ethan plans to use the RAG system to regularly access and review Sourcegraph's legal policies, contract templates, and compliance guidelines. He'll refer to this information when drafting agreements, advising on legal matters, and ensuring the company's practices align with current regulations.
+
+SUPREME COURT OPINIONS
+1. Persona: Whitney is a 32-year-old law professor specializing in constitutional law. She's passionate about educating her students on the latest developments in Supreme Court decisions and their implications for American jurisprudence. Whitney is known for her ability to break down complex legal concepts into digestible information for her students.
+
+Task: Whitney regularly uses the RAG system to prepare lecture materials and discussion points for her classes. She searches for recent opinions related to specific constitutional issues, extracts key arguments and decisions, and creates summaries that highlight the Court's reasoning. This helps her keep her course content current and provides real-world examples for her students to analyze.
+
+2. Persona: David Thompson is a 55-year-old policy advisor for a U.S. Senator. He has a background in law and specializes in advising on judicial nominations and legislation related to the federal court system. David is known for his ability to anticipate the legal implications of proposed legislation.
+
+Task: David uses the RAG system to analyze recent Supreme Court opinions for insights into the current Court's judicial philosophy. He regularly searches for decisions related to specific areas of law that might be affected by proposed legislation. This helps him advise the Senator on potential constitutional challenges to bills and inform strategies for judicial nomination hearings.
